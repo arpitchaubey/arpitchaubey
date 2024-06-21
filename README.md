@@ -36,7 +36,7 @@
 
 <p align="center">
 <a href="https://github.com/arpitchaubey">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arpitchaubey&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />\
+  <img height="180em" width="   " src="https://github-readme-stats-eight-theta.vercel.app/api?username=arpitchaubey&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arpitchaubey&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
@@ -46,8 +46,7 @@
 <p align="center">
 <a href="https://foliomy.epizy.com"><img src="https://img.shields.io/badge/-foliomy.epizy.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/arpit-chaubay"><img src="https://img.shields.io/badge/-Arpit%20Chaubay-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:arpitchaubay@gmail.com"><img src="https://img.shields.io/badge/-arpitchaubay@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:arpitchaubay2004@gmail.com"><img src="https://img.shields.io/badge/-arpitchaubay2004@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/arpit_dev"><img src="https://img.shields.io/badge/-@arpit_dev-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/arpit-chaubay"><img src="https://img.shields.io/badge/-@arpit-chaubay-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.behance.net/arpit-chaubay"><img src="https://img.shields.io/badge/-@arpit-chaubay-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
 </p>
