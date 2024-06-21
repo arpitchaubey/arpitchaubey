@@ -1,72 +1,57 @@
-[![Header](https://your-header-image-link)](https://your-portfolio-link)
+![Arpit Chaubey Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Hi%F0%9F%91%8B%2C+I'm+Arpit+Chaubey;Passionate+Frontend+Developer+from+India" alt="Hello, I'm Arpit Chaubey">
-</div>
+## 👋 &nbsp;Hey there! I'm Arpit Chaubey
 
-<h3 align="center">A passionate frontend developer from India</h3>
+### 👨🏻‍💻 &nbsp;About Me
 
-<p align="center">
-  I'm an <b>IT enthusiast</b>, <b>frontend developer</b> from India. I have an enormous passion for programming and I believe in the power of technology to reach new heights.
-</p>
-<p align="center">
-  I am constantly striving to learn new things and improve my skills, and my GitHub profile is one of the ways in which I do so. I believe that open-source is the future of software development and I am excited to be a part of this community.
-</p>
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently a student at Manav Rachna International Institute of Research and Studies, Haryana.\
+🌱 &nbsp;I'm on track for learning more about Frontend Development and Systems Design.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at arpitchaubay@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://foliomy.epizy.com) for more details about me. I'm open to feedback and suggestions!
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69595691/193453676-3abfe557-1fc1-46d8-8075-3b17b9f54887.gif">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arpitchaubey&label=Profile%20views&color=0e75b6&style=flat" alt="arpitchaubey" />
-</p>
+### 🛠 &nbsp;Tech Stack
 
-- 🔭 I’m currently working on **club-smith**
-- 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **helmet-detection**
-- 🤝 I’m looking for help with **money-mentor**
-- 💬 Ask me about **frontend development**
-- 📫 How to reach me **arpitchaubay@gmail.com**
-- 📄 Know about my experiences [https://foliomy.epizy.com](https://foliomy.epizy.com)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)\
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<h3 align="left">Technology Stack:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/buymearedbull"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a Redbull" /></a>
-</p>
-<br><br>
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitchaubey&show_icons=true&locale=en" alt="arpitchaubey" />
+<a href="https://github.com/arpitchaubey">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arpitchaubey&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arpitchaubey&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
 </p>
+
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitchaubey&" alt="arpitchaubey" />
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/arpit_chaubay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpit_chaubay" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/arpit-chaubay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-chaubay" height="30" width="40" /></a>
-  <a href="https://fb.com/arpit-chaubay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arpit-chaubay" height="30" width="40" /></a>
-  <a href="https://instagram.com/arpit_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arpit_dev" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  [![Twitter Follow](https://img.shields.io/twitter/follow/arpit_chaubay?style=social)](https://twitter.com/arpit_chaubay) 
-  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=arpit-chaubay&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/arpit-chaubay/) 
-  [![GitHub followers](https://img.shields.io/github/followers/arpitchaubey.svg?label=Follow%20@arpitchaubey&style=social)](https://github.com/arpitchaubey/)
+<a href="https://foliomy.epizy.com"><img src="https://img.shields.io/badge/-foliomy.epizy.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/arpit-chaubay"><img src="https://img.shields.io/badge/-Arpit%20Chaubay-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:arpitchaubay@gmail.com"><img src="https://img.shields.io/badge/-arpitchaubay@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/arpit_dev"><img src="https://img.shields.io/badge/-@arpit_dev-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/arpit-chaubay"><img src="https://img.shields.io/badge/-@arpit-chaubay-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.behance.net/arpit-chaubay"><img src="https://img.shields.io/badge/-@arpit-chaubay-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
 </p>
