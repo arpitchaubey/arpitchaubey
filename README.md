@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  🔭 I’m currently working on <strong>club-smith</strong><br>
-  🌱 I’m currently learning <strong>React</strong><br>
-  👯 I’m looking to collaborate on <strong>helmet-detection</strong><br>
-  🤝 I’m looking for help with <strong>money-mentor</strong><br>
-  👨‍💻 All of my projects are available at <a href="https://foliomy.epizy.com" target="_blank">My Portfolio</a><br>
-  💬 Ask me about <strong>frontend development</strong><br>
-  📫 How to reach me <strong>arpitchaubay@gmail.com</strong><br>
-  📄 Know about my experiences at <a href="https://foliomy.epizy.com" target="_blank">My Resume</a>
+  🔭 I’m currently working on <strong>club-smith</strong> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" /><br>
+  🌱 I’m currently learning <strong>React</strong> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="30" /><br>
+  👯 I’m looking to collaborate on <strong>helmet-detection</strong> <img src="https://media.giphy.com/media/3og0IMJcSI8p6hYQXS/giphy.gif" width="30" /><br>
+  🤝 I’m looking for help with <strong>money-mentor</strong> <img src="https://media.giphy.com/media/l3vRnVY8VokpTANUA/giphy.gif" width="30" /><br>
+  👨‍💻 All of my projects are available at <a href="https://foliomy.epizy.com" target="_blank">My Portfolio</a> <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="30" /><br>
+  💬 Ask me about <strong>frontend development</strong> <img src="https://media.giphy.com/media/26xBwdIuRJiAiC1su/giphy.gif" width="30" /><br>
+  📫 How to reach me <strong>arpitchaubay@gmail.com</strong> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30" /><br>
+  📄 Know about my experiences at <a href="https://foliomy.epizy.com" target="_blank">My Resume</a> <img src="https://media.giphy.com/media/26gsn1iI13g7sE7H6/giphy.gif" width="30" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
