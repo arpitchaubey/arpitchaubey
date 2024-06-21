@@ -1,6 +1,9 @@
 ![Arpit Chaubey Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-## 👋 &nbsp;Hey there! I'm Arpit Chaubey
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Hi%F0%9F%91%8B%2C+I'm+Arpit+Chaubey;Passionate+Frontend+Developer+from+India" alt="Hello, I'm Arpit Chaubey">
+</div>
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -33,7 +36,7 @@
 
 <p align="center">
 <a href="https://github.com/arpitchaubey">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arpitchaubey&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arpitchaubey&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />\
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arpitchaubey&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
