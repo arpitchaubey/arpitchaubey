@@ -58,7 +58,7 @@
 # Footer Fun Section:
 
 <div align="center" style="background-color:#1a1a2e; padding: 20px;">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Cat Typing" width="400"/>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Celebration" width="400"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Overload" width="400"/>
   <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="Debugging Frustration" width="400"/>
+
 </div>
