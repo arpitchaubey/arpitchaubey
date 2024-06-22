@@ -5,7 +5,7 @@
 </div>
 
 
-### 👨🏻‍💻 &nbsp;About Me
+# 🤔 About me:
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently a student at Manav Rachna International Institute of Research and Studies, Haryana.\
@@ -16,7 +16,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://foliomy.epizy.com) for more details about me. I'm open to feedback and suggestions!
 
 
-### 🛠 &nbsp;Tech Stack
+# 🧑‍💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -31,7 +31,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+# 📈 GitHub Analytics:
 
 <p align="center">
 <a href="https://github.com/arpitchaubey">
@@ -40,7 +40,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+# 🤝🏻 Connect with Me:
 
 <p align="center">
 <a href="https://foliomy.epizy.com"><img src="https://img.shields.io/badge/-foliomy.epizy.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
@@ -51,6 +51,6 @@
 </p>
 
 <p> 
-  Visitor count<br>
+  # Visitor count: <br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 </p>
