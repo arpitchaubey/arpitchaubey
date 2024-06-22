@@ -1,4 +1,4 @@
-![Arpit Chaubey Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Arpit Chaubey Banner]("https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="300")
 
 <div align="center" style="background-color:#1a1a2e; padding: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=1a1a2e00&center=true&width=500&height=75&lines=Hi%F0%9F%91%8B%2C+I'm+Arpit+Chaubey;Frontend+Developer" alt="Hello, I'm Arpit Chaubey">
@@ -45,20 +45,17 @@
 <a href="https://linkedin.com/in/arpit-chaubay"><img src="https://img.shields.io/badge/-Arpit%20Chaubay-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:arpitchaubay2004@gmail.com"><img src="https://img.shields.io/badge/-arpitchaubay2004@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/arpit_dev"><img src="https://img.shields.io/badge/-@arpit_dev-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/arpit-chaubay"><img src="https://img.shields.io/badge/-@arpit-chaubay-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
 
-# Visitor count:
+# 🔢 Visitor count:
 <p>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 </p>
-
-
-
-# Footer Fun Section:
-
+<br>
+<br>
+<br>
 <div align="center" style="background-color:#1a1a2e; padding: 20px;">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Overload" width="400"/>
-  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="Debugging Frustration" width="400"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Overload"  width="300" height="300"/>
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="Debugging Frustration"  width="300" height="300"/>
 
 </div>
