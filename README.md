@@ -53,9 +53,12 @@
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 </p>
 
-# Fun Section:
+
+
+# Footer Fun Section:
 
 <div align="center" style="background-color:#1a1a2e; padding: 20px;">
-  <img src="https://media.giphy.com/media/3o7aD6qgQMNzHH1YcM/giphy.gif" alt="Funny Coding Gif" width="400"/>
-  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" alt="Funny Gif" width="400"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Cat Typing" width="400"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Celebration" width="400"/>
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="Debugging Frustration" width="400"/>
 </div>
