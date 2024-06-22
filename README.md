@@ -49,3 +49,8 @@
 <a href="https://instagram.com/arpit_dev"><img src="https://img.shields.io/badge/-@arpit_dev-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/arpit-chaubay"><img src="https://img.shields.io/badge/-@arpit-chaubay-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
+
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+</p>
