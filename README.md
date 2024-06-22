@@ -1,4 +1,4 @@
-![Arpit Chaubey Banner]("https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="300")
+![Arpit Chaubey Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <div align="center" style="background-color:#1a1a2e; padding: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=1a1a2e00&center=true&width=500&height=75&lines=Hi%F0%9F%91%8B%2C+I'm+Arpit+Chaubey;Frontend+Developer" alt="Hello, I'm Arpit Chaubey">
