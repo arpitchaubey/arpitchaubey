@@ -41,7 +41,7 @@
 # 🤝🏻 Connect with Me:
 
 <p align="center" style="background-color:#1a1a2e; padding: 20px;">
-<a href="https://arpitchaubay-dev.vercel.app/"><img src="https://img.shields.io/badge/-foliomy.epizy.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://arpitchaubay-dev.vercel.app/"><img src="https://img.shields.io/badge/-arpitchaubay.dev-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/arpit-chaubay"><img src="https://img.shields.io/badge/-Arpit%20Chaubay-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:arpitchaubay2004@gmail.com"><img src="https://img.shields.io/badge/-arpitchaubay2004@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/arpit_dev"><img src="https://img.shields.io/badge/-@arpit_dev-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
