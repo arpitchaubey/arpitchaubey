@@ -35,6 +35,7 @@
 <a href="https://github.com/arpitchaubey">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arpitchaubey&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arpitchaubey&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em"(https://github-readme-streak-stats.herokuapp.com/?user=arpitchaubey&theme=vue-dark&hide_border=true)/>
 </a>
 </p>
 
